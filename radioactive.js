@@ -163,7 +163,7 @@
 		loggedInID: null,
 		scriptLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/radioactive.js",
 		chatLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/chat.json",
-		cmdLink: "em construcao",
+		cmdLink: "https://github.com/italocjs/RadioactiveBot/blob/master/commands.md",
 		chat: null,
 		loadChat: loadChat,
 		retrieveSettings: retrieveSettings,
