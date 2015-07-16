@@ -1,25 +1,15 @@
-# YalsTK Bot
-Eu sou um Bot para o PlugDJ
+# Radioactive Bot
+Um bot desenvolvido para o PlugDJ
 
-Criado por
+Baseado na criação de
 -----
  - [Matthew (Yemasthui)](https://github.com/Yemasthui)
- - Benzi (Quoona)
- - [Vinicios (Yals)](http://yals.tk/)
-Instalação
 -----
 Execute este script em sua página dentro do plug.
 
-`javascript:(function(){$.getScript("https://rawgit.com/vinicios-yals/yalsbot/master/botYals.extension.js");}());`
+`javascript:(function(){$.getScript("https://rawgit.com/italocjs/radioactive/master/botYals.extension.js");}());`
 
 ###Comandos###
-Você pode encontrar todos os comandos [clicando aqui](http://git.io/vTFKE).
+em breve
 
-Traduzido por
------
- - Yals
- - Osama
- - RuanKaizo
- - É Vedadi
- - DefT
- - Hunter321
+Este bot pode ser utilizado livremente!, basta forkar e usar para seu propio beneficio, porém, jamais retire o credito dos autores!, 
