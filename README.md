@@ -7,8 +7,6 @@ Baseado na criação de
 -----
 e edição de Yals. (criação do comando !thor e melhoria do !download / !allahuakbar)
  
-Execute este script em sua página dentro do plug.
-`javascript:(function(){$.getScript("https://rawgit.com/italocjs/radioactive/master/botYals.extension.js");}());`
 
 ###Comandos###
 https://github.com/italocjs/RadioactiveBot/blob/master/commands.md
