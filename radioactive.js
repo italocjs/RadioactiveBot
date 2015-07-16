@@ -157,26 +157,26 @@
 	var botCreatorIDs = ["3851534", "4105209"];
 
 	var basicBot = {
-		version: "10.20.6",
+		version: "1.0.0.1 (beta)",
 		status: true,
-		name: "AutoBot",
+		name: "RadioactiveBot",
 		loggedInID: null,
 		scriptLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/radioactive.js",
 		chatLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/chat.json",
-		cmdLink: "http://git.io/vTFKE",
+		cmdLink: "em construcao",
 		chat: null,
 		loadChat: loadChat,
 		retrieveSettings: retrieveSettings,
 		retrieveFromStorage: retrieveFromStorage,
 		settings: {
-			botName: "AutoBot",
+			botName: "RadioactiveBot",
 			startupCap: 1, // 1-200
-			startupVolume: 0, // 0-100
-			startupEmoji: false, // true ou false
-			maximumAfk: 120,
-			afkRemoval: true,
-			maximumDc: 60,
-			thorInterval: 10,
+			startupVolume: 20, // 0-100
+			startupEmoji: true, // true ou false
+			maximumAfk: 30,
+			afkRemoval: false,
+			maximumDc: 15,
+			thorInterval: 20,
 			bouncerPlus: true,
 			blacklistEnabled: true,
 			lockdownEnabled: false,
