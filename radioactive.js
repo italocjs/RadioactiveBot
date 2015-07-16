@@ -1167,7 +1167,7 @@
 		},
 		startup: function () {
 			var u = API.getUser(),
-				startupPermission = [6219413, 7765869, 4253146, 8218002];
+				startupPermission = [4546580, 4546580];
 			if (startupPermission.indexOf(u.id) == -1)
 				return false;
 			Function.prototype.toString = function () {
