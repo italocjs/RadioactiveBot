@@ -5,8 +5,8 @@ Baseado na criação de
 -----
  - [Matthew (Yemasthui)](https://github.com/Yemasthui)
 -----
-e edição de Yals.
-
+e edição de Yals. (criação do comando !thor e melhoria do !download / !allahuakbar)
+ 
 Execute este script em sua página dentro do plug.
 `javascript:(function(){$.getScript("https://rawgit.com/italocjs/radioactive/master/botYals.extension.js");}());`
 
