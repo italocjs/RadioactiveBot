@@ -159,7 +159,7 @@
 	var basicBot = {
 		version: "1.0.0.1 (beta)",
 		status: true,
-		name: "RadioactiveBot",
+		name: "BotBabaca",
 		loggedInID: null,
 		scriptLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/radioactive.js",
 		chatLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/chat.json",
@@ -169,7 +169,7 @@
 		retrieveSettings: retrieveSettings,
 		retrieveFromStorage: retrieveFromStorage,
 		settings: {
-			botName: "RadioactiveBot",
+			botName: "BotBabaca",
 			startupCap: 1, // 1-200
 			startupVolume: 20, // 0-100
 			startupEmoji: true, // true ou false
@@ -241,7 +241,7 @@
 			afkRankCheck: "ambassador",
 			motdEnabled: false,
 			motdInterval: 5,
-			motd: "Temporary Message of the Day",
+			motd: "Sejam bem vindos :)",
 			filterChat: true,
 			etaRestriction: false,
 			welcome: true,
@@ -1478,8 +1478,8 @@
 					}
 				}
 			},
-			askCommand: {
-				command: 'ask',
+			askosamaCommand: {
+				command: 'askosama',
 				rank: 'user',
 				type: 'startsWith',
 				functionality: function (chat, cmd) {
