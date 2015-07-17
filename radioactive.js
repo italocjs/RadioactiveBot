@@ -171,7 +171,7 @@
 		settings: {
 			botName: "BOTBABACA",
 			startupCap: 1, // 1-200
-			startupVolume: 20, // 0-100
+			startupVolume: 0, // 0-100
 			startupEmoji: true, // true ou false
 			maximumAfk: 30,
 			afkRemoval: false,
