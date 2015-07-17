@@ -20,10 +20,10 @@
 
 	// Muda as configurações padrões que são carregadas após a execução do script
 	localStorage.setItem("basicBotsettings", JSON.stringify({
-		botName: "AutoBot",
+		botName: "BOTBABACA",
 		startupCap: 1, // 1-200
-		startupVolume: 0, // 0-100
-		startupEmoji: false, // true ou false
+		startupVolume: 20, // 0-100
+		startupEmoji: true, // true ou false
 		maximumAfk: 20,
 		afkRemoval: false,
       	maximumDc: 15,
@@ -52,17 +52,17 @@
 		afkRankCheck: "ambassador",
 		motdEnabled: true,
 		motdInterval: 15,
-		motd: "Leia as regras na descrição!",
+		motd: "Sejam bem vindos! em breve novo website!",
 		filterChat: false,
 		etaRestriction: false,
 		welcome: true,
 		opLink: null,
-		rulesLink: "(Na descrição)",
+		rulesLink: "Em breve",
 		teamLink: "(Na descrição)",
 		themeLink: null,
 		fbLink: null,
 		youtubeLink: null,
-		websiteLink: "(Na descrição)",
+		websiteLink: "Em breve",
 		intervalMessages: [],
 		messageInterval: 5,
 		songstats: false,
@@ -71,5 +71,5 @@
 	}));
 
 	// Executa o script
-	$.getScript("https://rawgit.com/italocjs/yalsbot/botYals.js", extend);
+	$.getScript("https://rawgit.com/italocjs/RadioactiveBot/master/radioactive.js", extend);
 }).call(this);
