@@ -157,9 +157,9 @@
 	var botCreatorIDs = ["3851534", "4105209"];
 
 	var basicBot = {
-		version: "1.0.0.1 (beta)",
+		version: "1.0.0.3 (beta)",
 		status: true,
-		name: "BotBabaca",
+		name: "BOTBABACA",
 		loggedInID: null,
 		scriptLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/radioactive.js",
 		chatLink: "https://raw.githubusercontent.com/italocjs/RadioactiveBot/master/chat.json",
@@ -169,7 +169,7 @@
 		retrieveSettings: retrieveSettings,
 		retrieveFromStorage: retrieveFromStorage,
 		settings: {
-			botName: "BotBabaca",
+			botName: "BOTBABACA",
 			startupCap: 1, // 1-200
 			startupVolume: 20, // 0-100
 			startupEmoji: true, // true ou false
@@ -184,11 +184,11 @@
 			maximumLocktime: 10,
 			cycleGuard: true,
 			maximumCycletime: 10,
-			voteSkip: false,
+			voteSkip: true,
 			voteSkipLimit: 10,
 			historySkip: true,
 			timeGuard: true,
-			maximumSongLength: 10,
+			maximumSongLength: 7,
 			autodisable: false,
 			commandCooldown: 1,
 			usercommandsEnabled: true,
