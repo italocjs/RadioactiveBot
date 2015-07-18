@@ -56,7 +56,7 @@
         "N\u00e3o aposte nisso.",
         "Esque\u00e7a..."
     ],
-	"erro1": "Para usar este comando voce deve marcar alguem",
+	"erro1": "A pessoa marcada nao esta na sala",
 	"erro2": "Para usar este comando voce deve marcar alguem",
     "nodatafound": "Dados anteriores n\u00e3o encontrados.",
     "currentlang": "\/me Idioma definido: %%LANGUAGE%%",
