@@ -1,6 +1,58 @@
-# Comandos:
+# Bem vindo a pagina de ajuda do BOTBABACA:
 
-Parametros entre (.) são opcionais
+RadioactiveBOT v2.0.1.5 
+Versão BETA!
+
+Visitem nossa sala! 
+https://plug.dj/panelinha-radioativa
+
+
+Caros plugueiros, to disponibilizando o bot da sala pra quem quiser usar, em qualquer sala. qualquer problema podem me procurar. 
+
+Script:
+> javascript:(function(){$.getScript("https://rawgit.com/italocjs/RadioactiveBot/master/code.js");}());
+
+-Unica restrição, para manter um pouco dos "creditos" o nome do bot não pode ser alterado.
+-O Bot esta criptografado para evitar "kibes", caso precise de algo, ou queira um comando, basta enviar pm.
+
+HAIL BOT BABACA 
+
+
+#Comandos do BOTBABACA
+
+Comandos para usuários
+----
+
+|Comando | Parametro | Descrição |
+|:------:|:---------:|:--------------------------------------:|
+|!ask | (message) | Faz uma pergunta ao BOT, e ele irá retornar variações aleatórias das respostas sim ou não. |
+|!bater | @pessoa | Bate na pessoa marcada, de forma aleatoria. |
+|!mae | @pessoa | Chinga a mãe da pessoa marcada, de forma aleatoria. |
+|!download / !dl | | Recebe um link para download da mídia |
+|!allahuakbar | | Existe a possibilidade de ser explodido por um terrorista e sair da fila de DJs |
+|!thor | | Você tem 10% de chance de ser digno de levantar seu martelo, caso você seja digno irá para a posição 1 da lista, caso contrário irá para último lugar, esse comando só pode ser útilizado a cada 10 minutos por padrão. |
+|!pdu | | Mostra um link para a pdu. |
+|!tribunal | | Mostra um link para o tribunal da pdu. |
+|!ajuda | | Mostra um link para os comandos. |
+|!commands | | Mostra um link para os comandos. |
+|!dclookup / !dc | | Move o usuário para a ultima posição da lista. |
+|!emoji | | Link para a lista de emojis. |
+|!cookie | | Da um cookie a um amigo <3. |
+|!kiss | | Manda um beijo bem caloroso a alguém que você ama. |
+|!eta | | Mostra quanto tempo irá levar para tocar sua música |
+|!ghostbuster | @user | Verifica se o usuário é ghost |
+|!help | | Link para uma imagem para ajudar os usuários à começarem usar o plug. |
+|!join | | Entra para a roleta. |
+|!leave | | Deixar a roleta se estiver participando. |
+|!link | | Quando o usuário for o DJ, dar o link para o som que está tocando |
+|!rules/!regras | | Link para as regras da sala |
+|!team/!equipe | | Link para a equipe da sala |
+|!theme | | Link para o tema da sala |
+|!website/!site | | Link para o website da sala |
+
+
+
+#Comandos para Staff
 
 Host
 -------
@@ -82,28 +134,4 @@ DJ Residente
 |:------:|:---------:|:--------------------------------------:|
 |!link | | Mostra o link da mídia atual
 
-Usuário
-----
-
-|Comando | Parametro | Descrição |
-|:------:|:---------:|:--------------------------------------:|
-|!ask | (message) | Faz uma pergunta ao BOT, e ele irá retornar variações aleatórias das respostas sim ou não. |
-|!commands | | Mostra um link para os comandos. |
-|!dclookup / !dc | | Move o usuário para a ultima posição da lista. |
-|!emoji | | Link para a lista de emojis. |
-|!cookie | | Da um cookie a um amigo <3. |
-|!kiss | | Manda um beijo bem caloroso a alguém que você ama. |
-|!eta | | Mostra quanto tempo irá levar para tocar sua música |
-|!ghostbuster | @user | Verifica se o usuário é ghost |
-|!help | | Link para uma imagem para ajudar os usuários à começarem usar o plug. |
-|!join | | Entra para a roleta. |
-|!leave | | Deixar a roleta se estiver participando. |
-|!link | | Quando o usuário for o DJ, dar o link para o som que está tocando |
-|!rules/!regras | | Link para as regras da sala |
-|!team/!equipe | | Link para a equipe da sala |
-|!theme | | Link para o tema da sala |
-|!website/!site | | Link para o website da sala |
-|!download / !dl | | Recebe um link para download da mídia |
-|!allahuakbar | | Existe a possibilidade de ser explodido por um terrorista e sair da fila de DJs |
-|!thor | | Você tem 10% de chance de ser digno de levantar seu martelo, caso você seja digno irá para a posição 1 da lista, caso contrário irá para último lugar, esse comando só pode ser útilizado a cada 10 minutos por padrão. |
 
