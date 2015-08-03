@@ -32,6 +32,7 @@ Comandos para usuários
 |!allahuakbar | | Existe a possibilidade de ser explodido por um terrorista e sair da fila de DJs |
 |!thor | | Você tem 10% de chance de ser digno de levantar seu martelo, caso você seja digno irá para a posição 1 da lista, caso contrário irá para último lugar, esse comando só pode ser útilizado a cada 10 minutos por padrão. |
 |!pdu | | Mostra um link para a pdu. |
+|!origem | | Mostra um link que ensina a usar o origemwoot. |
 |!tribunal | | Mostra um link para o tribunal da pdu. |
 |!ajuda | | Mostra um link para os comandos. |
 |!commands | | Mostra um link para os comandos. |
