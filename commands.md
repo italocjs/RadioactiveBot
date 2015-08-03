@@ -1,8 +1,5 @@
 # Bem vindo a pagina de ajuda do BOTBABACA:
 
-RadioactiveBOT v2.0.1.5 
-Versão BETA!
-
 Visitem nossa sala! 
 https://plug.dj/panelinha-radioativa
 
@@ -16,6 +13,10 @@ Script:
 -O Bot esta criptografado para evitar "kibes", caso precise de algo, ou queira um comando, basta enviar pm.
 
 HAIL BOT BABACA 
+
+Baseado no codigo de Yematshui
+Adição de comandos e tradução por Italo Soares (MrJackIsFarting)
+
 
 
 #Comandos do BOTBABACA
