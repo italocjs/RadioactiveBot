@@ -1,7 +1,7 @@
 # Bem vindo a pagina de ajuda do BOTBABACA:
 
 Visitem nossa sala! 
-https://plug.dj/panelinha-radioativa
+https://plug.dj/pocodeuranio
 
 Script para iniciar o bot (OBS: Apenas funciona para os usuarios cadastrados, caso queira usar o bot entre em contato):
 > javascript:(function(){$.getScript("https://rawgit.com/italocjs/RadioactiveBot/master/codev2.js");}());
