@@ -157,7 +157,7 @@
 	var botCreatorIDs = ["3851534", "4105209"];
 
 	var basicBot = {
-		version: "1.0.0.3 (beta)",
+		version: "1.0.0.4 (Beta por MrJackisFarting - 10-2017)",
 		status: true,
 		name: "BOTBABACA",
 		loggedInID: null,
@@ -176,7 +176,7 @@
 			maximumAfk: 30,
 			afkRemoval: false,
 			maximumDc: 15,
-			thorInterval: 20,
+			thorInterval: 5,
 			bouncerPlus: true,
 			blacklistEnabled: true,
 			lockdownEnabled: false,
@@ -1479,7 +1479,7 @@
 				}
 			},
 			askosamaCommand: {
-				command: 'askosama',
+				command: ['askosama','ask','askbot'],
 				rank: 'user',
 				type: 'startsWith',
 				functionality: function (chat, cmd) {
