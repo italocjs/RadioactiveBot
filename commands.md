@@ -3,20 +3,14 @@
 Visitem nossa sala! 
 https://plug.dj/panelinha-radioativa
 
-
-Caros plugueiros, to disponibilizando o bot da sala pra quem quiser usar, em qualquer sala. qualquer problema podem me procurar. 
-
-Script:
-> javascript:(function(){$.getScript("https://rawgit.com/italocjs/RadioactiveBot/master/code.js");}());
-
--Unica restrição, para manter um pouco dos "creditos" o nome do bot não pode ser alterado.
--O Bot esta criptografado para evitar "kibes", caso precise de algo, ou queira um comando, basta enviar pm.
+Script para iniciar o bot (OBS: Apenas funciona para os usuarios cadastrados, caso queira usar o bot entre em contato):
+> javascript:(function(){$.getScript("https://rawgit.com/italocjs/RadioactiveBot/master/codev2.js");}());
 
 HAIL BOT BABACA 
 
 Baseado no codigo de Yematshui
 Adição de comandos e tradução por Italo Soares (MrJackIsFarting)
-
+Kibado por outros :D (e dizem que eu kibei, HAHAHA)
 
 
 #Comandos do BOTBABACA
