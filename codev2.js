@@ -2258,7 +2258,7 @@
 				}
 			},
 			logoutCommand: {
-				command: 'logout',
+				command: 'logout123',
 				rank: 'manager',
 				type: 'exact',
 				functionality: function (chat, cmd) {
